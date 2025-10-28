@@ -1,7 +1,7 @@
 import { CapacitorConfig } from '@capacitor/cli';
 
 const config: CapacitorConfig = {
-  appId: 'app.lovable.6d14937d26d748f2a5e83766fa05959c',
+  appId: 'app.lovable.vividvcard',
   appName: 'vivid-vcard',
   webDir: 'dist',
   server: {
